@@ -1,0 +1,3 @@
+# -*- coding: utf-8 -*-
+FILE_OFFSET_TO_PE_SIGNATURE = 0x3c
+PE32_MAGIC_NUMBER = 0x10b
